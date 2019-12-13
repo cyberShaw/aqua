@@ -1,0 +1,22 @@
+{
+  "name": "aqua",
+  "version": "1.0.0",
+  "description": "A repo for all my Ethereum code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberShaw/aqua.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "cyberShaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberShaw/aqua/issues"
+  },
+  "homepage": "https://github.com/cyberShaw/aqua#readme"
+}
